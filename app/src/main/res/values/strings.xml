@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vote App</string>
+    <string name="choose_your_activity">Choose Your Activity</string>
+    <string name="log_in">Log In</string>
+    <string name="voter">Voter :</string>
+    <string name="department">Department</string>
+</resources>
